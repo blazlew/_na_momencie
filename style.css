@@ -1,0 +1,43 @@
+body {
+  background-color: #1c1c1c;
+  padding-top: 65px;
+}
+
+h1 {
+  color: #c43985;
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  color: #979797;
+}
+
+button {
+  color: #1c1c1c;
+  background-color: #c43985;
+}
+
+.navbar {
+  border: 0;
+  background-color: #c43985;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px !important;
+}
+
+.navbar-brand {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 25px !important;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #1c1c1c !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #c43985 !important;
+    background-color: #1c1c1c !important;
+}
+
+.icon-bar {
+  background-color: #1c1c1c !important;
+}
